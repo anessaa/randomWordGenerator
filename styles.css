@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+h1 {
+  margin: 50px;
+}
+h1, h2 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#word {
+  margin-top: 30px;
+}
+
+#generate {
+  background-color: black;
+  color: white;
+  border: 1.5px solid white;
+  padding: 15px;
+  border-radius: 2px;
+  width: 130px;
+  font-size: 1.2em;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.box {
+  border: 2px solid white;
+  display: inline-block;
+  width: 600px;
+  height: 300px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
